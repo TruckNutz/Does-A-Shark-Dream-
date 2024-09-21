@@ -9,11 +9,11 @@
 <body>
     <div class="container">
       <h1>WHAT DOES A SHARK DREAM</h1>
-      <p>Upon what doth a shark rest his eyes upon? <br  />
-         Upon what doth a shark rest his fins upon? <br  />
-         Upon what doth a shark rest his love upon? <br  />
-         Upon what doth a shark rest his next upon? <br  />
-         Upon what doth a shark rest his home upon?
+      <p>Upon what doth a shark rest his eyes upon? 
+         Upon what doth a shark rest his fins upon? 
+         Upon what doth a shark rest his love upon?
+         Upon what doth a shark rest his next upon? <br>
+    </br> Upon what doth a shark rest his home upon?
       </p>
     </div>
 </body>
