@@ -27,6 +27,4 @@
         }
     }
 </script>
-         <input type="text" id="puzzleAnswer" placeholder="Your answer here">
-    <button onclick="checkAnswer()">Submit</button>
  
