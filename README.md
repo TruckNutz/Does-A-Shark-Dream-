@@ -18,6 +18,19 @@
       <h2> Upon what doth a shark rest his day upon? </h2>
       <h2> Upon what doth a shark rest his home upon?</h2> 
       <p>His Love<p>
+        <h1>Where Shall I go? </h1>
+        <script>
+    function checkAnswer() {
+        const answer = document.getElementById('puzzleAnswer').value.toLowerCase();
+        if (answer === "Wendy's") {
+            alert("Fin-tastic");
+        } else {
+            alert("Nice Fin-tasy, try again");
+        }
+    }
+</script>
+         <input type="text" id="puzzleAnswer" placeholder="Your answer here">
+    <button onclick="checkAnswer()">Submit</button>
     </div>
 </body>
 </html>
