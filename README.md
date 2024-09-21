@@ -22,7 +22,7 @@
       <p>His Love</p>
     </div>
     <div class="puzzle-container">
-        <p>Where Shall I Go?</p>
+        <h1>Who Shall I Go to?</h1>
         <input type="text" id="puzzleAnswer" placeholder="Your answer here">
         <button onclick="checkAnswer()">Submit</button>
     </div>
