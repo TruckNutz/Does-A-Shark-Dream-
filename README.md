@@ -15,13 +15,14 @@
       <h2>Upon what doth a shark rest his fins upon?</h2>
       <p>His Place to Rest</p>
       <h2>Upon what doth a shark rest his love upon?</h2>
-      <p>His</p>
-      <h2>Upon what doth a shark rest his day upon?</h2>
+      <p>The Tallest Point of them all</p>
+      <h2>Upon what doth a shark rest his story upon?</h2>
+      <p>A book</p>
       <h2>Upon what doth a shark rest his home upon?</h2> 
       <p>His Love</p>
     </div>
     <div class="puzzle-container">
-        <p>Where Shall I Go? Enter "burger" to get the correct answer</p>
+        <p>Where Shall I Go?</p>
         <input type="text" id="puzzleAnswer" placeholder="Your answer here">
         <button onclick="checkAnswer()">Submit</button>
     </div>
@@ -29,7 +30,7 @@
         function checkAnswer() {
             const answer = document.getElementById('puzzleAnswer').value.toLowerCase();
             if (answer === "burger") {
-                alert("Fintastic!");
+                alert("Fintastic! I want to return to him");
             } else {
                 alert("Nice Fin-tasy, try again");
             }
