@@ -9,15 +9,15 @@
 <body>
     <div class="container">
       <h1>WHERE DOES A SHARK DREAM</h1>
-      <p>Upon what doth a shark rest his eyes upon?</p>
-      <h2>His Next Meal</h2>
-      <p>Upon what doth a shark rest his fins upon?</p>
-      <h3>His Place to Rest</h3>
-      <p> Upon what doth a shark rest his love upon?</p>
-      <h4>His </h4>
-      <p> Upon what doth a shark rest his day upon?</p>
-      <p> Upon what doth a shark rest his home upon?</p> 
-      <h6>His Love</h6>
+      <h2>Upon what doth a shark rest his eyes upon?</h2>
+      <p>His Next Meal<p>
+      <h3>Upon what doth a shark rest his fins upon?</h3>
+      <p>His Place to Rest<p>
+      <h4> Upon what doth a shark rest his love upon?</h4>
+      <p>His </p>
+      <h5> Upon what doth a shark rest his day upon? </h5>
+      <h6> Upon what doth a shark rest his home upon?</h6> 
+      <p>His Love<p>
     </div>
 </body>
 </html>
