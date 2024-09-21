@@ -1,7 +1,9 @@
+<!DOCTYPE html>
 <html lang="en">
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE-edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel-"stylesheet" href="style.css">
   <title>Where Does a Shark Dream?</title>
 </head>
 <body>
@@ -27,4 +29,8 @@
         }
     }
 </script>
- 
+         <input type="text" id="puzzleAnswer" placeholder="Your answer here">
+    <button onclick="checkAnswer()">Submit</button>
+    </div>
+</body>
+</html>
