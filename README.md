@@ -29,7 +29,7 @@
         function checkAnswer() {
             const answer = document.getElementById('puzzleAnswer').value.toLowerCase();
             if (answer === "burger") {
-                alert("Fintastic! I want to return to him");
+                alert("Fintastic! I want to return to him. Key: My adoption date");
             } else {
                 alert("Nice Fin-tasy, try again");
             }
